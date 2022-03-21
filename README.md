@@ -13,7 +13,13 @@
 
 https://github.com/coding-to-music/my-twitter-clone-front-end
 
+https://my-twitter-clone-front-end.herokuapp.com/
+
+By https://github.com/MarioQuirosLuna/Twitter-Clone_Front-end/graphs/contributors
+
 https://github.com/MarioQuirosLuna/Twitter-Clone_Front-end
+
+https://twitter-clone-front-end.herokuapp.com/
 
 ## 💻 About the project.
 
